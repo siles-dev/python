@@ -9,6 +9,9 @@ Tracking my progress in learning python.
    1. PyCharm from IntelliJ - https://www.jetbrains.com/pycharm/
 
 <h1>Running it</h1>
-<h3></h3>
 
-1. 
+1. Run in python runner
+
+<h1>General notes</h1>
+
+- Case-sensitive language
