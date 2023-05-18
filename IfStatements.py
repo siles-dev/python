@@ -3,13 +3,21 @@
 
 awesomeness = float(input("Enter your awesomeness lvl: "))
 
+# if {condition}:
+#   {statements}
 # `:` opens execution block and is based on `   ` tabbed space to group execution statements
 if awesomeness > 99:
     print("WOW you're AWESOME!!!")  # Notice the double quotes ;)
     print("You alright")
+
 # `else` statement
+# elif {condition}:
+#   {statements}
 elif 99 > awesomeness > 55:  # lvl is between (55, 98] - notice ex/inclusion parenthesis
     print("You OK?")
+
+# else :
+#   {statements}
 else:
     print("Believe in yourself, or not. You do you \\m/")  # Notice how characters are escaped
 

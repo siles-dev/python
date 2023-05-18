@@ -15,3 +15,5 @@ Tracking my progress in learning python.
 <h1>General notes</h1>
 
 - Case-sensitive language
+- Space/Tabs dictate code block statements 
+- List support negative indexing, ie -1 is last value in list
